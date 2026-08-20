@@ -1,7 +1,7 @@
 Poovarasan
 |      💻 Development     |     🧠 Problem Solving     |        🌱 Learning       |      🤝 Collaboration      |
 | :---------------------: | :------------------------: | :----------------------: | :------------------------: |
-| Build software projects | Solve programming problems | Explore new technologies | Work with other developers |
+| Build software projects | Solve programming problems | Explore new technologies | Work with other developers | 
 
 </div>
 
