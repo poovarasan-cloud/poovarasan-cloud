@@ -1,126 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Poovarasan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=6AD3F7\&center=true\&vCenter=true\&multiline=true\&width=650\&height=100\&lines=Hi+%F0%9F%91%8B%2C+I'm+Poovarasan!;Student+Developer+%7C+Technology+Enthusiast;Learning+%7C+Building+%7C+Creating+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<table align="center" border="0">
-
-<tr>
-
-<td width="35%" align="center" valign="middle">
-
-<!-- 🪪 Poovarasan ID Card -->
-
-<img src="./poovarasan-id.svg?v=1" alt="Poovarasan ID Badge" width="300"/>
-
-</td>
-
-<td width="65%" valign="middle">
-
-### 🚀 Turning Ideas Into Technology
-
-* 🎓 A passionate **student developer** interested in exploring modern technology and software development
-
-* 💻 Interested in **programming, web development, software engineering, and emerging technologies**
-
-* 🧠 Constantly learning new concepts and improving technical problem-solving skills
-
-* 🛠️ Enjoy building projects, experimenting with technologies, and turning ideas into practical applications
-
-* 🌱 Believe in **learning by building** and improving through every project
-
-* 🚀 Always looking for opportunities to learn, collaborate, and create something meaningful
-
-<br/>
-
-> 💙 *"Learn. Build. Improve. Repeat."*
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
----
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<p align="center">
-
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+%F0%9F%91%8B;Welcome+to+Poovarasan's+Profile+%F0%9F%92%BB;Thanks+for+Visiting+%F0%9F%98%8A;Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Let's+Create+Something+Amazing+%F0%9F%A4%9D"></a>
-
-</p>
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-
-</p>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-### 💫 About Me
-
-* 👨‍💻 I'm a **passionate student developer** exploring the world of technology
-
-* 💻 Interested in **software development and modern digital technologies**
-
-* 🧠 I enjoy learning new programming concepts and solving technical problems
-
-* 🚀 I like transforming ideas into **working projects and practical solutions**
-
-* 🌱 Currently focused on improving my **development, problem-solving, and technical skills**
-
-* 🤝 Open to learning from developers, collaborating on projects, and contributing to the developer community
-
-* ⚡ I believe that every project is another opportunity to learn something new
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/poovarasan-p-8ba7033ba/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/poovarasanhitler">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🚀 What I Do
-
-<div align="center">
-
-|      💻 Development     |     🧠 Problem Solving     |        🌱 Learning       |      🤝 Collaboration      |
+Poovarasan
+|      💻 Development     |     🧠 Problem Solving     |        🌱 Learning       |      🤝 Collaboration      |
 | :---------------------: | :------------------------: | :----------------------: | :------------------------: |
 | Build software projects | Solve programming problems | Explore new technologies | Work with other developers |
 
@@ -240,7 +119,7 @@
 
 ---
 
-## 🛠️ Developer Tools
+## 🛠 Developer Tools
 
 <div align="center">
 
@@ -317,7 +196,7 @@ Explore new concepts and technologies.
 
 <td align="center" width="25%">
 
-### 🛠️ Build
+### 🛠 Build
 
 Turn knowledge into practical projects.
 
@@ -350,15 +229,15 @@ Connect, collaborate, and grow.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poovarasanhitler&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=poovarasan-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasanhitler&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=poovarasanhitler&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=poovarasan-cloud&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -368,7 +247,7 @@ Connect, collaborate, and grow.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poovarasanhitler&theme=tokyonight" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poovarasan-cloud&theme=tokyonight" alt="GitHub Profile Details"/>
 
 </p>
 
@@ -378,7 +257,7 @@ Connect, collaborate, and grow.
 
 <div align="center">
 
-<img src="https://count.getloli.com/@:poovarasanhitler?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+<img src="https://count.getloli.com/@:poovarasan-cloud?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 
 </div>
 
@@ -388,7 +267,7 @@ Connect, collaborate, and grow.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/poovarasanhitler/poovarasanhitler/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/poovarasan-cloud/poovarasan-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 <br/><br/>
 
@@ -408,84 +287,3 @@ Connect, collaborate, and grow.
 📌 Artificial Intelligence & Emerging Technologies
 📌 Real-World Project Development
 📌 Problem Solving & Logical Thinking
-```
-
----
-
-## 🤝 Open to Collaborate On
-
-<div align="center">
-
-💻 **Software Projects**
-  |  
-🌐 **Web Applications**
-  |  
-🤖 **AI / ML Projects**
-  |  
-🧠 **Programming Projects**
-  |  
-🚀 **Innovative Ideas**
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-If you're interested in technology, development, learning, or building something interesting together, feel free to connect!
-
-<br/>
-
-<a href="https://www.linkedin.com/in/poovarasan-p-8ba7033ba/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/poovarasanhitler">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### ✍️ Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 Keep Building
-
-<div align="center">
-
-### 🚀 Learn Something New
-
-### 💻 Build Something Useful
-
-### 🧠 Solve Real Problems
-
-### 🤝 Help Others Grow
-
-### 🌟 Keep Moving Forward
-
-</div>
-
----
-
-<h3 align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-</h3>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
-
-</div>
