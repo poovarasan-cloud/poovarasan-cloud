@@ -28,7 +28,7 @@
 
 <!-- 🪪 Poovarasan ID Card -->
 
-<img src="./poovarasan-id.svg?v=1" alt="poovarasan ID Badge" width="300"/>
+<img src="./poovarasan-id.svg?v=1" alt="Poovarasan ID Badge" width="300"/>
 
 </td>
 
